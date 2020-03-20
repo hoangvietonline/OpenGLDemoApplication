@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenGLDemoApplication</string>
+    <string name="take_image">Take Image</string>
+    <string name="choose_filter">Choose Filter</string>
+</resources>
